@@ -4,7 +4,7 @@
 **[Plotly](https://plotly.com/)** is an extraordinary **'Visualization'** tool that can be used to create **highly informative** and **beautiful charts**.<br>
 
 The repository contains a jupyter notebook,  [plotly-graph-instructions.ipynb](https://github.com/sagar-0817/plotly-graph-instructions/blob/master/plotly-graph-instructions.ipynb)
-which contains the **instructions** to **interact** with the different<br>**Plotly Graphs**.<br>
+which contains the **instructions** to **interact** with the different **Plotly Graphs**.<br>
 <hr>
 
 ## Note
